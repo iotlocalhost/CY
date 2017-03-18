@@ -4,8 +4,9 @@
              xmlns:local="clr-namespace:CY"
              x:Class="CY.MainPage">
 
-	<Label Text="Welcome to Xamarin Forms!" 
+    <Grid>
+        <Label Text="Welcome to Xamarin Forms!" 
            VerticalOptions="Center" 
            HorizontalOptions="Center" />
-
+    </Grid>
 </ContentPage>
